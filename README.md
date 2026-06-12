@@ -1,6 +1,5 @@
 # YieldFusionAI
 
-[![DOI](https://zenodo.org/badge/1267307148.svg)](https://doi.org/10.5281/zenodo.20625406)
 
 ## YieldFusionAI: An Explainable Multi-Season Spatio-Temporal Deep Learning Framework for Accurate Crop Yield Forecasting
 
@@ -497,8 +496,7 @@ outputs/
 @software{YieldFusionAI2026,
   title={YieldFusionAI: An Explainable Multi-Season Spatio-Temporal Deep Learning Framework for Accurate Crop Yield Forecasting},
   author={Mahendra Somu},
-  year={2026},
-  doi={10.5281/zenodo.20625406}
+
 }
 ```
 
@@ -521,10 +519,9 @@ For questions, collaborations, or research inquiries:
 Author: Mahendra Somu
 
 DOI:
-https://doi.org/10.5281/zenodo.20625406
 
 GitHub:
-https://github.com/YOUR_USERNAME/YieldFusionAI
+
 
 ---
 
