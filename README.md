@@ -1,6 +1,6 @@
 # YieldFusionAI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625406.svg)](https://doi.org/10.5281/zenodo.20625406)
+[![DOI](https://zenodo.org/badge/1267307148.svg)](https://doi.org/10.5281/zenodo.20625406)
 
 ## YieldFusionAI: An Explainable Multi-Season Spatio-Temporal Deep Learning Framework for Accurate Crop Yield Forecasting
 
