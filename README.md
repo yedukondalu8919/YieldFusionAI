@@ -496,7 +496,7 @@ outputs/
 ```bibtex
 @software{YieldFusionAI2026,
   title={YieldFusionAI: An Explainable Multi-Season Spatio-Temporal Deep Learning Framework for Accurate Crop Yield Forecasting},
-  author={Mahendra Somu},
+  author={yedukondalu},
 
 }
 ```
