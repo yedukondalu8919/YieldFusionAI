@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1267307148.svg)](https://doi.org/10.5281/zenodo.20666381)
 # YieldFusionAI
 
 
