@@ -503,25 +503,17 @@ outputs/
 
 ---
 
-# License
-
+License
 MIT License
+This project is released under the MIT License and may be used for academic, research, and commercial purposes with appropriate attribution.
 
-Copyright (c) 2026 Mahendra Somu
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-# Contact
 
-For questions, collaborations, or research inquiries:
+DOI:[![DOI](https://zenodo.org/badge/1267307148.svg)](https://doi.org/10.5281/zenodo.20666381)
 
-Author: Mahendra Somu
-
-DOI:
-
-GitHub:
+GitHub:https://github.com/yedukondalu8919/YieldFusionAI/tree/main
 
 
 ---
